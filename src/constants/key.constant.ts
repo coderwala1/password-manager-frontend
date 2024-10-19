@@ -1,0 +1,5 @@
+export const KeyConstant = {
+  LOGGED_IN_USER: "LOGGED_IN_USER",
+  AUTH_HASH_PASS: "AUTH_HASH_PASS",
+  AUTH_EMAIL: "AUTH_EMAIL",
+};
